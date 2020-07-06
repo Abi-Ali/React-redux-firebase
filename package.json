@@ -38,5 +38,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A project management tool in which users can add new projects once they are authenticated. Also users will get real time notifications regarding new users joining the application or adding new projects.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abi-Ali/React-redux-firebase.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "Firebase"
+  ],
+  "author": "Abiali Husain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abi-Ali/React-redux-firebase/issues"
+  },
+  "homepage": "https://github.com/Abi-Ali/React-redux-firebase#readme"
 }
